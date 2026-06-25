@@ -50,6 +50,7 @@ The project was developed using **PyTorch** and showcases the application of com
 The dataset consists of facial images grouped into five age categories.
 
 > **Note:** The dataset (~1.2 GB) is not included in this repository due to GitHub's file size limitations.
+> https://drive.google.com/drive/folders/1UV4GFJfBy_GTiwAIvad8tk_l_hzp3iP_?usp=drive_link
 
 ### Dataset Structure
 
@@ -209,7 +210,7 @@ Delhi Technological University (DTU)
 
 ## Connect With Me
 
-* **LinkedIn:** https://linkedin.com/in/your-linkedin
+* **LinkedIn:** https://www.linkedin.com/in/sumit-jha-51273229a/
 * **GitHub:** https://github.com/sumitjha-2004
 
 ---
